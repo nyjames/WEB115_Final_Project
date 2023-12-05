@@ -1,0 +1,160 @@
+#banner{
+            
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+
+     }
+
+#banner-img {
+
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+.banner-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+     
+        
+    
+#main_page_title {
+
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 50%;
+        color: #CF322B;
+        font-size: larger;
+        padding: 10px;
+
+
+    }
+
+#InfoForm {
+
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+        font-size: larger;
+        text-align: left;
+        
+        }
+
+#name {
+
+            margin: 20px;
+            padding: 10px;
+            width: 90%; 
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+#email {
+            
+            margin: 20px;
+            padding: 10px;
+            width: 90%; 
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+
+        }
+
+#goal {
+            
+            margin: 20px;
+            padding: 10px;
+            width: 90%; 
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+#submit_button {
+
+            margin: 10px;
+            padding: 10px;
+            display: block;
+            font-size: medium;
+            font-weight: bolder;
+            color:#fff;
+            border-style: hidden;
+            background-color: #CF322B;
+
+            
+        }
+
+#clear {
+            
+            margin: 10px;
+            padding: 10px;
+            display: block;
+            font-size: medium;
+            font-weight: bolder;
+            color:#fff;
+            border-style: hidden;
+            background-color: #CF322B;
+
+        }
+
+#print {
+
+            margin: 10px;
+            padding: 10px;
+            display: block;
+            font-size: medium;
+            font-weight: bolder;
+            color:#fff;
+            border-style: hidden;
+            background-color: #CF322B;
+        }
+
+#download {
+
+            margin: 10px;
+            padding: 10px;
+            display: block;
+            font-size: medium;
+            font-weight: bolder;
+            color:#fff;
+            border-style: hidden;
+            background-color: #CF322B;
+        }
+
+#view_meal_plans_button {
+
+            margin: 10px;
+            padding: 10px;
+            display: block;
+            font-size: medium;
+            font-weight: bolder;
+            color:#fff;
+            border-style: hidden;
+            background-color: #CF322B;
+
+        }
+
+
+.meal_plans {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    font-size: larger;
+    text-align: left;
+        
+        }
+
